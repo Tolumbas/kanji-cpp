@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1432645224 source:c:\users\anton\desktop\problems s06\problem s06 e08\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1431759636 c:\users\anton\desktop\problems s06\problem s06 e08\okglib.h
+
+1432651878 source:c:\users\anton\desktop\problems s06\problem s06 e08\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	<iostream>
+
+1432904879 source:c:\users\anton\desktop\kanji\okglib.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+
+1431759636 c:\users\anton\desktop\kanji\okglib.h
+
+1432904655 source:c:\users\anton\desktop\kanji\main.cpp
+	<cstdlib>
+	<math.h>
+	<GL/glfw.h>
+	"okglib.h"
+	<iostream>
+
