@@ -1,6 +1,6 @@
 Kanji - OpenGL C++
 =============================
-This is a homework, done without any engine or 3d
+This is a homework, done without any 3d
 software to map the points.
 
 The meaning of the kanji is "to destroy"
